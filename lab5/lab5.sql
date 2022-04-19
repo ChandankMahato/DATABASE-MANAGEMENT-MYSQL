@@ -233,8 +233,7 @@ UPDATE Users SET last_name = 'Mahato123' WHERE ID = 1;
 UPDATE Users SET dob = '2001-02-28' WHERE ID = 1;
 UPDATE Users SET email = 'cmahato@gmail.com' WHERE ID = 1;
 UPDATE Users SET username = 'chandanmahato123' WHERE ID = 1;
-SELECT * FROM Users;
-	
+SELECT * FROM user_logs;
 	
 	
 	
